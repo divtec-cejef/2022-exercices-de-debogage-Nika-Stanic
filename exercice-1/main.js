@@ -1,3 +1,4 @@
-(function main( {
-	widow.alert("Félicitations, tu l'as réparé !');
-}()); // Main IIFE
+(function main() {
+	window .alert("Félicitations, tu l'as repare !");
+
+}()) // Main IIFE
